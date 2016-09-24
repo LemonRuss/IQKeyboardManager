@@ -756,6 +756,7 @@
 					};
 					C0B63B9A1781FAB1008D3B64 = {
 						DevelopmentTeam = 7UUTF6T5P9;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -1120,6 +1121,7 @@
 				PRODUCT_NAME = IQKeyboardManager;
 				PROVISIONING_PROFILE = "19764671-765f-4e2b-886b-c864811d6da4";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1141,6 +1143,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.iftekhar.IQKeyboardManager;
 				PRODUCT_NAME = IQKeyboardManager;
 				PROVISIONING_PROFILE = "19764671-765f-4e2b-886b-c864811d6da4";
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
